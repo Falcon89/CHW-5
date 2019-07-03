@@ -1,8 +1,9 @@
 package com.cursor.wh5;
 
-public class Main {
+import static com.cursor.wh5.LibraryService.libraryCase;
 
+public class Main {
     public static void main(String[] args) {
-	// write your code here
+        libraryCase();
     }
 }
